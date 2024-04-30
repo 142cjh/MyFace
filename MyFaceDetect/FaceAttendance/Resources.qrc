@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dagou.png</file>
+        <file>renzhen.png</file>
+        <file>kuan.png</file>
+    </qresource>
+</RCC>
