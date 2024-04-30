@@ -1,2 +1,2 @@
 # MyFace
-人脸检测模型
+基于qt+opencv+seetaface的人脸系统检测：
